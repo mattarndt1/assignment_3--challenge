@@ -22,7 +22,7 @@
         position: [
           -71.061434,
           42.380693,
-          10000// elevation in meters
+          9000// elevation in meters
         ],
         tilt: 0,
         heading: 0,
