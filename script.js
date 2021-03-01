@@ -21,8 +21,8 @@
       var boston_camera = new Camera({
         position: [
           -71.061434,
-          42.350693,
-          8000// elevation in meters
+          42.360693,
+          10000// elevation in meters
         ],
         tilt: 0,
         heading: 0,
